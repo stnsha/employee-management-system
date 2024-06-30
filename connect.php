@@ -1,7 +1,7 @@
 <?php 
 
 
-$link = mysqli_connect("employee-management-system.c7icmygw6c2g.ap-southeast-1.rds.amazonaws.com","admin","4r5oMIZzEHzMaOvcZTCj","employee-management-system");
+$link = mysqli_connect("sql.freedb.tech","freedb_ems_ans","gA@V#aWgpR83esV","freedb_ems2020");
 //$link = mysqli_connect("localhost", "root", "", "jrmns");
 //
  
