@@ -17,10 +17,11 @@ $_SESSION["username"] = $username;
  
 
 if ($username == "admin" && $password == "jrmns12354!") {
-	echo '<script type="text/javascript">'; 
-	echo 'alert("Login successful");'; 
-	echo 'window.location.href = "view_employee.php";';
-	echo '</script>';
+	echo 'hey';
+	// echo '<script type="text/javascript">'; 
+	// echo 'alert("Login successful");'; 
+	// echo 'window.location.href = "view_employee.php";';
+	// echo '</script>';
 }
 
 else {
