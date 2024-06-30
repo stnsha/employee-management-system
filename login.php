@@ -1,4 +1,6 @@
 <?php
+echo 'heyyy';
+exit();
 include 'connect.php';
 session_start();
 
